@@ -108,10 +108,21 @@ nav a {
     font-weight: 900;
 }
 
-.navig {
-    padding: 40px;
+.naviga {
+    color: #c0baa0;
+    font-size: 19px;
+      font-weight: 600;
 }
+
+.navig {
+    color: #6D6339;
+    font-size: 23px;
+    border-bottom: 3px solid #6D6339;
+    font-weight: 900;
+}
+
 
 .vvv {
     text-align: center;
+    padding: 0px 50px 5px 50px;
 }
