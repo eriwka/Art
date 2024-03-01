@@ -66,8 +66,9 @@ h3 {
 
 main p {
     border-left: 4px solid #6D6339;
-    margin: 20px;
+    margin: 30px;
     background-color: #fafaf4;
+    text-align: justify;
 }
 
 
