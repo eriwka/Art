@@ -58,6 +58,7 @@ main img {
     width: 400px;
     height: 300px;
     border: 15px ridge #4e4935;
+    text-align: center;
 }
 
 h3 {
